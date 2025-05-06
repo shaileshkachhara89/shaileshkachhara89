@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaileshkachhara89
 - 👀 I’m interested in Software Developement
-- 🌱 I’m currently learning andriod, flutter, react, asp.net
+- 🌱 I’m full stack developer technology like React JS, Javascript, HTML, CSS, ASP.NET, PHP, Codeigniter, C#.
 - 💞️ I’m looking to collaborate on andriod, flutter
 - 📫 How to reach me shaileshkachhara89@gmail.com
 
